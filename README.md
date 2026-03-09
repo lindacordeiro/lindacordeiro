@@ -1,6 +1,6 @@
 # 🌸Olá, eu sou a Linda
 
-**`Data Analyst`**
+**`Data Analyst`** **`Data Engineering`**
 
 Experiência em análise e manipulação de dados utilizando Python, SQL e AWS Athena no mercado desde 2023. 
 Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da análise de dados, automação de processos e suporte a decisões orientadas por dados. 
