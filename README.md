@@ -2,7 +2,10 @@
 
 **`Data Analyst`**
 
-Sou a Linda, 25 anos e tenho experiência em análise e manipulação de dados utilizando Python, SQL e AWS Athena no mercado desde 2023. Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da análise de dados, automação de processos e suporte a decisões orientadas por dados. Experiência com tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções em Python para ganho de eficiência operacional. Em formação em Ciência da Computação pela UFABC, com interesse em oportunidades como Data Engineer ou Analytics Engineer.
+Experiência em análise e manipulação de dados utilizando Python, SQL e AWS Athena no mercado desde 2023. 
+Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da análise de dados, automação de processos e suporte a decisões orientadas por dados. 
+Experiência com tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções em Python para ganho de eficiência operacional. 
+Em formação em Ciência da Computação pela UFABC, com interesse em oportunidades como Data Engineer ou Analytics Engineer.
 
 ### 🤖 Linguagens e Tecnologias
 
