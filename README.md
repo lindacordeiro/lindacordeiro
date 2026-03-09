@@ -1,4 +1,4 @@
-# 👩🏽‍💻Linda Cordeiro
+# 🌸Linda Cordeiro
 
 **`Data Analyst`**
 
