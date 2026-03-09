@@ -2,10 +2,16 @@
 
 **`Data Analyst`** **`Data Engineering`**
 
-Experiência em análise e manipulação de dados utilizando Python, SQL e AWS Athena no mercado desde 2023. 
-Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da análise de dados, automação de processos e suporte a decisões orientadas por dados. 
-Experiência com tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções em Python para ganho de eficiência operacional. 
-Em formação em Ciência da Computação pela UFABC, com interesse em oportunidades como Data Engineer ou Analytics Engineer.
+<p>
+    Experiência em <strong>análise e manipulação de dados</strong> utilizando <strong>Python, SQL, Excel e AWS Athena</strong> no mercado desde <strong>2023</strong>. 
+    <br>
+    Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da <strong>análise de dados, automação de processos e suporte a decisões orientadas por dados</strong>.
+    <br>
+    Experiência com <strong>tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções</strong> em <strong>Python</strong> para ganho de <strong>eficiência operacional</strong>. 
+    <br>
+    Em formação em <strong>Ciência da Computação</strong> pela <strong>UFABC</strong>, com interesse em oportunidades como <strong>Data Engineer</strong> ou <strong>Analytics Engineer</strong>.
+</p>
+
 
 ### 🤖 Tecnologias
 
