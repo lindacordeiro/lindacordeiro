@@ -1,4 +1,4 @@
-# 🌸Linda Cordeiro
+# 🌸Olá, eu sou a Linda
 
 **`Data Analyst`**
 
