@@ -7,7 +7,7 @@ Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participand
 Experiência com tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções em Python para ganho de eficiência operacional. 
 Em formação em Ciência da Computação pela UFABC, com interesse em oportunidades como Data Engineer ou Analytics Engineer.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tecnologias
 
 <img 
     align="left" 
@@ -76,6 +76,9 @@ Em formação em Ciência da Computação pela UFABC, com interesse em oportunid
 
 <br/>
 <br/>
+
+### 💻 GitHub Statistics
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lindacordeiro?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <!--
