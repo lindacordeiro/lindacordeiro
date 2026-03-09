@@ -16,6 +16,22 @@ Sou a Linda, 25 anos e tenho experiência em análise e manipulação de dados u
 />
 <img 
     align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"       
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -40,14 +56,6 @@ Sou a Linda, 25 anos e tenho experiência em análise e manipulação de dados u
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -65,9 +73,6 @@ Sou a Linda, 25 anos e tenho experiência em análise e manipulação de dados u
 
 <br/>
 <br/>
-
-
-
 
 
 <!--
