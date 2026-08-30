@@ -9,7 +9,7 @@
     <br>
     Experiência com <strong>tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções</strong> em <strong>Python</strong> para ganho de <strong>eficiência operacional</strong>. 
     <br>
-    Em formação em <strong>Ciência da Computação</strong> pela <strong>UFABC</strong>, com interesse em oportunidades como <strong>Data Engineer</strong> ou <strong>Analytics Engineer</strong>.
+    Graduada em <strong>Ciência e Tecnologia</strong> pela <strong>UFABC</strong>, com interesse em oportunidades como <strong>Data Engineer</strong> ou <strong>Analytics Engineer</strong>.
 </p>
 
 
