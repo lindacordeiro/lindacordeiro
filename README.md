@@ -12,14 +12,31 @@
     Graduada em <strong>Ciência e Tecnologia</strong> pela <strong>UFABC</strong>, com interesse em oportunidades como <strong>Data Engineer</strong> ou <strong>Analytics Engineer</strong>.
 </p>
 
+## 👨‍💻 Sobre mim
 
-### 🤖 Tecnologias
+* 🎓 Graduada em **Ciência e Tecnologia - UFABC**
+* 💻 Cursando **Técnico em Desenvolvimento de Sistemas — Etec — 1º semestre**
+* 💻 Cursando **Técnico em Automação Industrial — IFSP — 2º semestre**
+* 🔧 Conhecimentos básicos em **hardware, software e Windows**
+* 🌐 Interesse em **Análise de Dados e automação de processos**
+* 📚 Atualmente estudando linguagem C e desenvolvendo projetos de Análise de Dados
+* 🚀 Buscando crescer profissionalmente e aprender novas tecnologias
+
+## 🤖 Tecnologias
 
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -27,7 +44,7 @@
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"       
 />
@@ -35,7 +52,7 @@
     align="left" 
     alt="AWS" 
     title="AWS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"                 
 />
@@ -43,7 +60,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -51,7 +68,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -59,7 +76,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -67,7 +84,7 @@
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -75,7 +92,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
