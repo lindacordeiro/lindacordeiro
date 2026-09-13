@@ -91,10 +91,10 @@ Atuação com análise de dados para determinar variáveis que se adequavam ao p
 
 Principais atividades:
 
-* Análise de dados utilizando Excel, AWS Athena e SQL para extração de insights e suporte a decisões de produto;
-* Atuação junto a times multidisciplinares para levantamento e acompanhamento de requisitos analíticos;
-* Identificação de variáveis e indicadores para melhoria de performance do aplicativo;
-* Treinamento e parametrização de agentes de IA, contribuindo para otimização de processos e redução significativa de esforço operacional no time;
+* Análise de dados utilizando Excel, AWS Athena e SQL para extração de insights e suporte a decisões de produto
+* Atuação junto a times multidisciplinares para levantamento e acompanhamento de requisitos analíticos
+* Identificação de variáveis e indicadores para melhoria de performance do aplicativo
+* Treinamento e parametrização de agentes de IA, contribuindo para otimização de processos e redução significativa de esforço operacional no time
 * Automação de processos em Python e Power Automate.
 
 
@@ -106,11 +106,11 @@ Atuação com análise de dados para dados envolvendo atendimento ao cliente.
 
 Principais atividades:
 
-* Realizar análise de dados em Excel com tabela dinâmica, procx, e demais recursos para dataviz;
-* Desenvolvimento em Python com pandas, numpy e streamlit;
-* Automação de processos para melhor eficiência operacional;
-* Análise de dados utilizando AWS Athena;
-* Treinamento de agentes de IA para redução de esforço em time de grande porte gerando processo 10 vezes mais rápido.
+* Realizar análise de dados em Excel com tabela dinâmica, procx, e demais recursos para dataviz
+* Desenvolvimento em Python com pandas, numpy e streamlit
+* Automação de processos para melhor eficiência operacional
+* Análise de dados utilizando AWS Athena
+* Treinamento de agentes de IA para redução de esforço em time de grande porte gerando processo 10 vezes mais rápido
 
 ## 👩🏻‍💻 Extracurricular
 ### Monitora do Curso Bárbara Liskov - Conceitos de Programação (2023)
