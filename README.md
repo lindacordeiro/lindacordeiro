@@ -13,6 +13,8 @@
     Perfil integrativo
 </p>
 
+---
+
 ## 👩🏻‍🎓 Sobre mim
 
 * 🎓 Graduada em **Ciência e Tecnologia - UFABC**
@@ -21,6 +23,8 @@
 * 🌐 Interesse em **Análise de Dados e Automação de Processos**
 * 📚 Atualmente estudando linguagem C, Python e desenvolvendo projetos de Análise de Dados
 * 🚀 Buscando crescer profissionalmente e aprender novas tecnologias
+
+---
 
 ## 🤖 Tecnologias
 
@@ -67,6 +71,8 @@
 <br/>
 <br/>
 
+---
+
 ## ✧˖°. Conhecimentos Técnicos
 
 * Capacidade de constante aprendizado e transmissão de conhecimento
@@ -80,6 +86,7 @@
 * Inglês B2 
 * Coreano A2 (Com certificação Topik 2급)
 
+---
 
 ## 💼 Experiência profissional
 
@@ -112,6 +119,8 @@ Principais atividades:
 * Análise de dados utilizando AWS Athena
 * Treinamento de agentes de IA para redução de esforço em time de grande porte gerando processo 10 vezes mais rápido
 
+---
+
 ## 👩🏻‍💻 Extracurricular
 ### Monitora do Curso Bárbara Liskov - Conceitos de Programação (2023)
 Atuação como Monitora do Curso dado em Python por meio da ferramenta Google Colab. As alunas puderam aprender conceitos como: 
@@ -120,6 +129,7 @@ Atuação como Monitora do Curso dado em Python por meio da ferramenta Google Co
 * Funções
 * Regressão
 
+---
 
 ## 💻 GitHub Statistics
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lindacordeiro?cardType=github&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
