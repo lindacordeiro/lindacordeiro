@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-### 💻 Estudante de Desenvolvimento de Sistemas | 
+### 💻 Estudante de Desenvolvimento de Sistemas
 <p>
     Experiência em <strong>análise e manipulação de dados</strong> utilizando <strong>Python, SQL, Excel e AWS Athena</strong> no mercado desde <strong>2023</strong>. 
     <br>
