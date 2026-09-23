@@ -4,13 +4,16 @@
 
 ### 💻 Estudante de Desenvolvimento de Sistemas
 <p>
-    ╰┈➤ Experiência em <strong>análise e manipulação de dados</strong> utilizando <strong>Python, SQL, Excel e AWS Athena</strong> no mercado desde <strong>2023</strong>. 
+    ╰➤ Experiência em <strong>análise e manipulação de dados</strong> utilizando <strong>Python, SQL, Excel e AWS Athena</strong> no mercado desde <strong>2023</strong>. 
     <br>
-    ╰┈➤ Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da <strong>análise de dados, automação de processos e suporte a decisões orientadas por dados</strong>.
+    ╰➤ Atuação em ambiente corporativo de grande porte no Itaú Unibanco, participando da <strong>análise de dados, automação de processos e suporte a decisões orientadas por dados</strong>.
     <br>
-    ╰┈➤ Experiência com <strong>tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções</strong> em <strong>Python</strong> para ganho de <strong>eficiência operacional</strong>.
+    ╰➤ Experiência com <strong>tratamento de dados, criação de consultas analíticas e desenvolvimento de soluções</strong> em <strong>Python</strong> para ganho de <strong>eficiência operacional</strong>.
     <br>
 </p>
+
+### 📱 Portifólio
+[lindacordeiro.github.io](https://lindacordeiro.github.io/)
 
 ---
 
