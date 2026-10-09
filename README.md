@@ -142,7 +142,7 @@ Atuação como Monitora do Curso dado em Python por meio da ferramenta Google Co
 ---
 
 ## 💻 GitHub Statistics
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lindacordeiro?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lindacordeiro?cardType=github&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <!--
